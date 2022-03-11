@@ -3,7 +3,7 @@ import java.util.Scanner;
 import static java.lang.System.nanoTime;
 
     public class Algo_3 {
-        public static long  PowA(long num, long degree)
+        public static long  PowA(long num, long degree)  // пробежка по рекурсии
         {
             if (degree==0)
                 return 1;
