@@ -30,4 +30,4 @@ import static java.lang.System.nanoTime;
             }
         }
     }
-
+ // 3 лаба по алгоритмам 5 вариант
