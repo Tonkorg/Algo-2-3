@@ -105,4 +105,4 @@ import static java.lang.System.nanoTime;
 
 
 
-
+// 2 лабораторная работа по Алгоритмам 5 вариант
