@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import static java.lang.System.nanoTime;
 
-    public class Alg {
+    public class Algo_2 {
 
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
